@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    color: darkgreen;
+    text-transform: capitalize;
+    text-align: center;
+    background-color: lightgray;
+}
+
+hr {
+    border: 3px dashed red;
+}
